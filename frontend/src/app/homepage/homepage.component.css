@@ -6,10 +6,14 @@
 
 .cstm-auth li{
     color: white;
-    background-color: #d7ad3e;
-    padding: 8px;
+    background-color: #87806c;
+    padding: 12px;
     border-radius: 13px;
     margin-top: 10%;
+}
+
+.cstm-auth li:hover{
+    cursor: pointer;
 }
 
 .header{
@@ -22,5 +26,5 @@
 
 .banner img{
     width: 100%;
-    height: 1000px
+    height: 450px;
 }
