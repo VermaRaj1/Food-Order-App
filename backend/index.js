@@ -13,7 +13,7 @@ app.use(express.json());
 app.get("/", async (req, res) => {
     try{
         return res.status(200).json({
-            data: "Hello World",
+            data: "Hello Raj Lets make a new app",
             success: true
         })
     }
